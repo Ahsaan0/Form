@@ -1,0 +1,47 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 15px 30px;
+    font: size 20px; ;
+    padding: 9px;
+}
+.container {
+background-color: aqua;
+padding: 5px 20px 15px 20px;
+border: 2px solid lightblue;
+border-radius: 4px;
+}
+input[type"text"],
+input[type"email"],
+input[type"number"],
+input[type"password"],
+input[type"date"],
+select,
+textarea{
+    width: 100;
+    padding: 12px;
+    border: 2px solid lightblue;
+    margin: px;
+}
+fieldset{
+background-color: beige;
+border: 1px solid cornsilk;
+}
+.heading{
+    text-align: center;
+}
+.PAY{
+    background-color: aquamarine;
+    color: blue;
+    padding: 2px,20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100;
+
+}
+.PAY:hover{
+background-color: blue;
+}

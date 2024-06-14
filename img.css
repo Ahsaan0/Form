@@ -1,0 +1,18 @@
+*{
+  background-color: chocolate;
+
+}
+.h1{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.h2{
+    display: flex;
+    text-decoration: none;
+    color: black;
+}
+.p1{
+    display: flex;
+    color:black;
+}
